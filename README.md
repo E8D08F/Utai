@@ -39,7 +39,7 @@ Distributed under the GNU General Public License v3.0. See `LICENSE` for more de
 
 ## Contact
 
-Toto Minai – [@toto_minai](https://twitter.com/toto_minai) 🍒 / [the@unpopular.me](mailto:the@unpopular.me) ✉️
+Toto – [@toto@unpopular.me](https://unpopular.me/@toto) 🍒 / [the@unpopular.me](mailto:the@unpopular.me) ✉️
 
 Website – <https://chunghwa.asia/utai>
 
